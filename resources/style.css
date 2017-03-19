@@ -3,9 +3,10 @@
 }
 
 .heading {
-  background-image: url("the-flatiron-building.png");
+  background: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.jpg") no-repeat left top;
   color: white;
   text-align: center;
+  margin: 0;
 }
 
 h1 {
@@ -15,6 +16,7 @@ h1 {
 
 ul {
   list-style-type: none;
+  padding: 0;
 }
 
 li a {
